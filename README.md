@@ -28,6 +28,8 @@ yarn start / npm run start
 ## How did you make your design decisions?
 I searched for examples of horizontal timelines on Google Images
 
+# Final Layout
+![image](https://github.com/user-attachments/assets/cb6c5722-7692-43b9-8967-9ba4fef641d6)
 
 ## Author
 
